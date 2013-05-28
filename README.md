@@ -11,7 +11,7 @@ desenvolvendo, acelerando e alavancando negócios e startups. Ao todo, somos 15
 empresas, 200 pessoas e estamos presentes em 4 cidades.
 
 A ELO Group, principal empresa do grupo, foi eleita a [6ª melhor empresa para se
-trabalhar no Rio de Janeiro](www.greatplacetowork.com.br/melhores-empresas/gptw-
+trabalhar no Rio de Janeiro](http://www.greatplacetowork.com.br/melhores-empresas/gptw-
 rio-de-janeiro/698-2012) e [11ª melhor empresa do Brasil para se trabalhar com
 TI](http://www.greatplacetowork.com.br/melhores-empresas/gptw-ti-a-telecom)
 (GPTW 2012).
