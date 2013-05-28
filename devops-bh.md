@@ -51,10 +51,9 @@ de bancos de dados NoSQL a servidores de streaming.
   desenvolvendo, acelerando e alavancando negócios e startups. Ao todo, somos 15
   empresas, 200 pessoas e estamos presentes em 4 cidades;
 - A ELO Group, principal empresa do grupo, foi eleita a [6ª melhor empresa para
-  se trabalhar no Rio de Janeiro](http://www.greatplacetowork.com.br/melhores-
-  empresas/gptw- rio-de-janeiro/698-2012) e [11ª melhor empresa do Brasil para
-  se trabalhar com TI](http://www.greatplacetowork.com.br/melhores-
-  empresas/gptw- ti-a-telecom) (GPTW 2012);
+  se trabalhar no Rio de Janeiro](http://www.greatplacetowork.com.br/melhores-empresas/gptw-rio-de-janeiro/698-2012)
+  e [11ª melhor empresa do Brasil para se trabalhar com TI](http://www.greatplacetowork.com.br/melhores-empresas/gptw-ti-a-telecom)
+  (GPTW 2012);
 - Nosso ambiente de trabalho é 100% descontraído com muito incentivo ao
   crescimento profissional.
 
@@ -67,11 +66,7 @@ de bancos de dados NoSQL a servidores de streaming.
 - Bolsa: R$1200,00 a R$1800,00 + VR (R$30,00 por dia);
 - Carga horária: 4 ou 6 horas diárias, de segunda a sexta-feira. Horário
   flexível;
-- Local: [Rua Araguari 358, sl 1703 - Barro Preto - Belo Horizonte](https://www.
-  google.com/maps?q=Rua+Araguari,+358,+Belo+Horizonte+-+Minas+Gerais,+Brazil&sll
-  =37.06250000000001,-95.677068&sspn=65.58687907370873,85.48895564720927&t=m&hne
-  ar=R.+Araguari,+358+-+Barro+Preto,+Belo+Horizonte+-+Minas+Gerais,+30190-110,+B
-  razil&z=16).
+- Local: [Rua Araguari 358, sl 1703 - Barro Preto - Belo Horizonte](https://www.google.com/maps?q=Rua+Araguari,+358,+Belo+Horizonte+-+Minas+Gerais,+Brazil&sll=37.06250000000001,-95.677068&sspn=65.58687907370873,85.48895564720927&t=m&hnear=R.+Araguari,+358+-+Barro+Preto,+Belo+Horizonte+-+Minas+Gerais,+30190-110,+Brazil&z=16).
 
 ## Contato
 
