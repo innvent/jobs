@@ -33,3 +33,6 @@ A data limite para entrega é: **26/07/2013**
 
 ### Como faço pra entregar?
 Crie um repositório público no [github](http://github.com) e envie um email com a url do mesmo para [estagiobh@innvent.com.br](mailto:estagiobh@innvent.com.br)
+
+
+###Boa Sorte!
