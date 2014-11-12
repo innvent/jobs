@@ -8,7 +8,7 @@
 
 A Elogroup é um lugar onde pessoas incríveis combinam suas competências para
 fazer inovação. Contando com grande experiência em gestão e tecnologia, além de
-uma equipe altamente qualificada. Ao todo, mais de 150 pessoas e estamos presentes em mais de 5 cidades do Brasil.
+uma equipe altamente qualificada. Ao todo, somos mais de 150 pessoas e estamos presentes em mais de 5 cidades do Brasil.
 
 A Elogroup foi eleita a [6ª melhor empresa para se
 trabalhar no Rio de Janeiro](http://www.greatplacetowork.com.br/melhores-empresas/gptw-rio-de-janeiro/698-2012)
