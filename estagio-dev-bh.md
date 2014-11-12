@@ -1,6 +1,6 @@
 ![pictureGallery](http://www.innvent.com.br/images/LogoInnvent.PNG "Innvent")
 
-# Innvent - Processo seletivo Estagiarios BH
+# Innvent - Processo seletivo Estagiarios BH [Sem vagas]
 
 
 ## Primeira fase
@@ -11,14 +11,14 @@ Nesta etapa você deve implementar um pequeno sistema para controle de finanças
 * Não vamos implementar as interfaces gráficas deste sistema. Todo *"output"* deverá ser feito pelo **console**.
 
 ####Descrição do sistema
-O sistema deve possuir o conceito de contas. Podendo um usuario inclusive gerenciar mais de uma conta.  
-As contas deveram ser identificadas por um nome e ter um saldo e lançamentos.   
-Os lançamentos podem ser de receita ou de despesa e devem possuir: uma data, um valor e uma categoria.  
+O sistema deve possuir o conceito de contas. Podendo um usuario inclusive gerenciar mais de uma conta.
+As contas deveram ser identificadas por um nome e ter um saldo e lançamentos.
+Os lançamentos podem ser de receita ou de despesa e devem possuir: uma data, um valor e uma categoria.
 As categorias devem ter um nome, e podem ter sub-categorias, como por exemplo: *Categoria: Casa, sub-categoria: Aluguel.*
 
 Também deve ser possivel realizar transferencia de valores entre duas contas. *Ex: Transferir R$ 1000 de uma conta de nome Padrao para uma conta de nome Poupanca*
 
-Por fim, o sistema também deve ser capaz de:  
+Por fim, o sistema também deve ser capaz de:
 
 * Exibir todos os lançamentos ordenados por Data
 * Exibir lançamentos por Categoria

@@ -2,7 +2,7 @@
   <img src="images/innvent.png?raw=true" alt="Innvent | Innovation & Venturing"/>
 </p>
 
-# Estágio em DevOps - Belo Horizonte
+# Estágio em DevOps - Belo Horizonte [Sem vagas]
 
 Se você tem interesse por *Cloud Computing*, arquitetura de sistemas,
 escalabilidade, pela maneira como desenvolvimento e operações se interligam e
